@@ -1,0 +1,7 @@
+set(yolov3_pytorch_ros_SETUP_PY_SETUP_MODULE "setuptools")
+set(yolov3_pytorch_ros_SETUP_PY_VERSION "0.1.0")
+set(yolov3_pytorch_ros_SETUP_PY_SCRIPTS "")
+set(yolov3_pytorch_ros_SETUP_PY_PACKAGES "")
+set(yolov3_pytorch_ros_SETUP_PY_PACKAGE_DIRS "")
+set(yolov3_pytorch_ros_SETUP_PY_MODULES "")
+set(yolov3_pytorch_ros_SETUP_PY_MODULE_DIRS "")

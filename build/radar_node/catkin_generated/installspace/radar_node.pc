@@ -1,0 +1,8 @@
+prefix=/home/jetson/catkin_ws/install
+
+Name: radar_node
+Description: Description of radar_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
