@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/camera_control_msgs_generate_messages_cpp"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabAndSaveImageGoal.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabImagesActionGoal.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabAndSaveImageAction.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabAndSaveImageActionFeedback.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/currentParams.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabImagesResult.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabImagesGoal.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabHDRImageActionGoal.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabHDRImageActionFeedback.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabImagesAction.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabHDRImageGoal.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabHDRImageAction.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabHDRImageResult.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabAndSaveImageActionGoal.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabImagesFeedback.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabAndSaveImageFeedback.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabImagesActionFeedback.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabHDRImageActionResult.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabAndSaveImageActionResult.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabHDRImageFeedback.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabAndSaveImageResult.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GrabImagesActionResult.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/SetSleeping.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/SetStringValue.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/SetGain.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/SetBrightness.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/SetROI.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/SetIntegerValue.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/GetCamProperties.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/SetBinning.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/SetExposure.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/SetFloatValue.h"
+  "/home/jetson/catkin_ws/devel/include/camera_control_msgs/SetGamma.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/camera_control_msgs_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

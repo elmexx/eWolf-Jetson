@@ -1,0 +1,2 @@
+autonomous_navigation_ros:beginner_tutorials:dragandbot_common/dnb_msgs:lane_detection_node:pylon-ros-camera/camera_control_msgs:pylon-ros-camera/pylon_camera:radar_node:reach_ros_node:ros_deep_learning:speedgoat_node:usb_cam:yolo_trt_ros:yolov3_pytorch_ros
+-DCATKIN_DEVEL_PREFIX=/home/jetson/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/catkin_ws/install -G Unix Makefiles

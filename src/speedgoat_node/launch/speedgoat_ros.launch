@@ -1,0 +1,4 @@
+<launch>
+  <node name="speedgoat_ros" pkg="speedgoat_node" type="speedgoat_jetson_ethernet.py" output="screen" cwd="node"> 
+  </node>
+</launch>
